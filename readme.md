@@ -1,3 +1,5 @@
+![Screenshot 2025-01-27 110019](https://github.com/user-attachments/assets/d49378c2-6995-466e-9eb5-12de38ad8edc)
+
 # React TMDB Client
 
 A React Movies application using [The Movie Database (TMDb)](https://developers.themoviedb.org) API.
