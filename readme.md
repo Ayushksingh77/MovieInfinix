@@ -1,3 +1,4 @@
+![Screenshot 2025-01-27 110000](https://github.com/user-attachments/assets/d0a70c8b-67c2-4f1b-881f-bcf72ac97094)
 ![Screenshot 2025-01-27 110019](https://github.com/user-attachments/assets/d49378c2-6995-466e-9eb5-12de38ad8edc)
 
 # React TMDB Client
