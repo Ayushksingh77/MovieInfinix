@@ -1,0 +1,43 @@
+@import url("@/assets/index.css");
+/* @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap'); */
+
+@font-face {
+  font-family: "DM Sans";
+  src: url(/src/assets/fonts/DMSans-Regular.ttf);
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "DM Sans";
+  src: url(/src/assets/fonts/DMSans-Medium.ttf);
+  font-weight: 500;
+  font-display: swap;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body,
+html {
+  color: #fff;
+  background: #111;
+  color-scheme: dark;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+/* ::view-transition-group(root) {
+  animation;
+} */
+
+img {
+  view-transition-class: card;
+}
+
+::view-transition-group(*.card) {
+  animation: 500ms ease;
+}
